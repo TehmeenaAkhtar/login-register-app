@@ -20,7 +20,7 @@ A modern login and registration application built with React.js, Node.js, Expres
 ## Screenshots
 
 <h4>Login Page</h4>
- ![Image](https://github.com/user-attachments/assets/5f2dc6c4-b04c-45e3-a390-27046f46a6c1)
+https://github.com/TehmeenaAkhtar/login-register-app/blob/47b75e692e2939ee7f235c006b87b56c3fbbca18/loginimg.png
 
 <h4>Registration Page</h4> 
 ![Image](https://github.com/user-attachments/assets/7c7b16a0-666b-49a9-b88a-d11e805a726e)
