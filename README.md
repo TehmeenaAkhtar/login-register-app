@@ -20,8 +20,7 @@ A modern login and registration application built with React.js, Node.js, Expres
 ## Screenshots
 
 <h4>Login Page</h4>
-  ![Image](https://github.com/user-attachments/assets/f3ec052e-01f0-4dcc-b91d-0b0f9f6d001c)
+ ![Image](https://github.com/user-attachments/assets/5f2dc6c4-b04c-45e3-a390-27046f46a6c1)
 
 <h4>Registration Page</h4> 
-![Image](https://github.com/user-attachments/assets/16bab76d-e89f-4d25-92ae-5f45282d1bb8)
-
+![Image](https://github.com/user-attachments/assets/7c7b16a0-666b-49a9-b88a-d11e805a726e)
