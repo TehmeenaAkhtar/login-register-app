@@ -5,7 +5,7 @@ A modern login and registration application built with React.js, Node.js, Expres
     Backend: Node.js, Express.js<br>
     Database: MongoDB<br>
 
-    <h3>Commands:</h3>
+<h3> Commands: </h3>
    <strong># Set up the backend</strong><br>
    cd backend<br>
    npm install<br>
